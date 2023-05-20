@@ -7,7 +7,7 @@ const age = 19;
 let y = 7;
 let x = 5;
 
-console.log (y * 2 + x * 2)
+console.log (y * 2 + x * 2);
 
 // #3
 console.log('i am ' + firstName + ' ' + lastName + ' ' + age + ' ' + 'years old');
